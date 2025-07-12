@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\swd212\\demo\\StrategyPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35DC6BD9-5F19-4AAA-A6E7-144A2197C887}|StrategyPattern\\StrategyPattern.csproj|c:\\users\\pc\\desktop\\swd212\\demo\\strategypattern\\strategypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35DC6BD9-5F19-4AAA-A6E7-144A2197C887}|StrategyPattern\\StrategyPattern.csproj|solutionrelative:strategypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DC6BD9-5F19-4AAA-A6E7-144A2197C887}|StrategyPattern\\StrategyPattern.csproj|c:\\users\\pc\\desktop\\swd212\\demo\\strategypattern\\strategypattern\\interface\\ipaymentstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35DC6BD9-5F19-4AAA-A6E7-144A2197C887}|StrategyPattern\\StrategyPattern.csproj|solutionrelative:strategypattern\\interface\\ipaymentstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DC6BD9-5F19-4AAA-A6E7-144A2197C887}|StrategyPattern\\StrategyPattern.csproj|c:\\users\\pc\\desktop\\swd212\\demo\\strategypattern\\strategypattern\\context\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35DC6BD9-5F19-4AAA-A6E7-144A2197C887}|StrategyPattern\\StrategyPattern.csproj|solutionrelative:strategypattern\\context\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DC6BD9-5F19-4AAA-A6E7-144A2197C887}|StrategyPattern\\StrategyPattern.csproj|c:\\users\\pc\\desktop\\swd212\\demo\\strategypattern\\strategypattern\\concretestrategies\\paypalpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35DC6BD9-5F19-4AAA-A6E7-144A2197C887}|StrategyPattern\\StrategyPattern.csproj|solutionrelative:strategypattern\\concretestrategies\\paypalpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DC6BD9-5F19-4AAA-A6E7-144A2197C887}|StrategyPattern\\StrategyPattern.csproj|c:\\users\\pc\\desktop\\swd212\\demo\\strategypattern\\strategypattern\\concretestrategies\\creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35DC6BD9-5F19-4AAA-A6E7-144A2197C887}|StrategyPattern\\StrategyPattern.csproj|solutionrelative:strategypattern\\concretestrategies\\creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\swd212\\demo\\StrategyPattern\\StrategyPattern\\Context\\Order.cs",
+              "RelativeDocumentMoniker": "StrategyPattern\\Context\\Order.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\swd212\\demo\\StrategyPattern\\StrategyPattern\\Context\\Order.cs",
+              "RelativeToolTip": "StrategyPattern\\Context\\Order.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T10:51:57.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PayPalPayment.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\swd212\\demo\\StrategyPattern\\StrategyPattern\\ConcreteStrategies\\PayPalPayment.cs",
+              "RelativeDocumentMoniker": "StrategyPattern\\ConcreteStrategies\\PayPalPayment.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\swd212\\demo\\StrategyPattern\\StrategyPattern\\ConcreteStrategies\\PayPalPayment.cs",
+              "RelativeToolTip": "StrategyPattern\\ConcreteStrategies\\PayPalPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T10:50:39.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreditCardPayment.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\swd212\\demo\\StrategyPattern\\StrategyPattern\\ConcreteStrategies\\CreditCardPayment.cs",
+              "RelativeDocumentMoniker": "StrategyPattern\\ConcreteStrategies\\CreditCardPayment.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\swd212\\demo\\StrategyPattern\\StrategyPattern\\ConcreteStrategies\\CreditCardPayment.cs",
+              "RelativeToolTip": "StrategyPattern\\ConcreteStrategies\\CreditCardPayment.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T10:50:01.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPaymentStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\swd212\\demo\\StrategyPattern\\StrategyPattern\\Interface\\IPaymentStrategy.cs",
+              "RelativeDocumentMoniker": "StrategyPattern\\Interface\\IPaymentStrategy.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\swd212\\demo\\StrategyPattern\\StrategyPattern\\Interface\\IPaymentStrategy.cs",
+              "RelativeToolTip": "StrategyPattern\\Interface\\IPaymentStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T10:49:31.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\swd212\\demo\\StrategyPattern\\StrategyPattern\\Program.cs",
+              "RelativeDocumentMoniker": "StrategyPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\swd212\\demo\\StrategyPattern\\StrategyPattern\\Program.cs",
+              "RelativeToolTip": "StrategyPattern\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T10:46:33.814Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
